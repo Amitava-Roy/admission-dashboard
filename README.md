@@ -52,3 +52,9 @@ npm start
 ```bash
 npm run build
 ```
+
+## Author
+
+- **Name:** Amitava Roy
+- **Email:** ramitava007@gmail.com
+- **Phone:** 9635883018
